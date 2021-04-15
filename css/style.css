@@ -37,6 +37,10 @@ table,th,td{
     display: grid;
     grid-template-columns: 60% 40%;
 }
+.contenedor.table1{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
 
 .contenedor .cartas{
     display: grid;
